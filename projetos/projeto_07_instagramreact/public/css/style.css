@@ -212,6 +212,11 @@ body {
   margin-bottom: 18px;
 }
 
+.liked {
+  background-color: red;
+  color: red;
+}
+
 .sidebar {
   padding-top: 24px;
   position: sticky;
@@ -327,7 +332,7 @@ body {
 
 @media (max-width: 614px) {
   .corpo {
-    margin-top: 0;
+    margin-top: 70px;
   }
 
   .post {
