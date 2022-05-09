@@ -32,23 +32,19 @@ function Usuario(props) {
 function Sugestoes() {
   const sugestoes = [
     {
-      nomeUsuario: "João Paulo",
-      imagemPerfil: "assets/img/catanacomics.svg"
+      nomeUsuario: "bad.vibes.memes",
+      imagemPerfil: "assets/img/bad.vibes.memes.svg"
     },
     {
-      nomeUsuario: "Ana",
-      imagemPerfil: "assets/img/catanacomics.svg"
+      nomeUsuario: "chibirdart",
+      imagemPerfil: "assets/img/chibirdart.svg"
     },
     {
-      nomeUsuario: "João Paulo",
-      imagemPerfil: "assets/img/catanacomics.svg"
+      nomeUsuario: "razoesparaacreditar",
+      imagemPerfil: "assets/img/razoesparaacreditar.svg"
     },
     {
-      nomeUsuario: "João Paulo",
-      imagemPerfil: "assets/img/catanacomics.svg"
-    },
-    {
-      nomeUsuario: "João Paulo",
+      nomeUsuario: "jpvargas_0907",
       imagemPerfil: "assets/img/catanacomics.svg"
     },
   ];

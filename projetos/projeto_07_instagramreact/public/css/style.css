@@ -180,6 +180,10 @@ body {
   cursor: pointer;
 }
 
+.post .usuario > img {
+  border-radius: 50%;
+}
+
 .post .conteudo img {
   width: 100%;
 }
@@ -212,9 +216,12 @@ body {
   margin-bottom: 18px;
 }
 
-.liked {
-  background-color: red;
-  color: red;
+.post ion-icon[name="heart"] { 
+  color: red 
+}
+
+.post .legenda{
+  padding: 0 16px 13px;
 }
 
 .sidebar {

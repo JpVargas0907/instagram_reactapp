@@ -5,27 +5,27 @@ export default function Stories() {
   },
   {
     nome: "meowed",
-    imagemPerfil: "assets/img/9gag.svg"
+    imagemPerfil: "assets/img/meowed.svg"
   },
   {
-    nome: "meowed",
-    imagemPerfil: "assets/img/9gag.svg"
+    nome: "barked",
+    imagemPerfil: "assets/img/barked.svg"
   },
   {
-    nome: "meowed",
-    imagemPerfil: "assets/img/9gag.svg"
+    nome: "nathanwpylestrangeplanet",
+    imagemPerfil: "assets/img/nathanwpylestrangeplanet.svg"
   },
   {
-    nome: "meowed",
-    imagemPerfil: "assets/img/9gag.svg"
+    nome: "respondeai",
+    imagemPerfil: "assets/img/respondeai.svg"
   },
   {
-    nome: "meowed",
-    imagemPerfil: "assets/img/9gag.svg"
+    nome: "wawawicomics",
+    imagemPerfil: "assets/img/wawawicomics.svg"
   },
   {
-    nome: "meowed",
-    imagemPerfil: "assets/img/9gag.svg"
+    nome: "memeriagourmet",
+    imagemPerfil: "assets/img/memeriagourmet.svg"
   },
   {
     nome: "meowed",
