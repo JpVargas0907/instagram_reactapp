@@ -42,7 +42,7 @@ export default function Posts() {
 
 function Post(props) {
 
-  let [isLiked, setIsLiked] = React.useState(true);
+  let [isLiked, setIsLiked] = React.useState(false);
 
   return (
   <div class="post">
